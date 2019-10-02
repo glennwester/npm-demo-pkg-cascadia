@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo-pkg-cascadia",
+  "version": "1.0.0",
+  "description": "A demo package for testing. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Test",
+  "license": "ISC"
+}
