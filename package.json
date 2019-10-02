@@ -1,5 +1,5 @@
 {
-  "name": "npm-demo-pkg-cascadia",
+  "name": "@glennwester/npm-demo-pkg-cascadia",
   "version": "1.0.0",
   "description": "A demo package for testing. ",
   "main": "index.js",
@@ -9,6 +9,10 @@
   "keywords": [
     "demo"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:glennwester/npm-demo-pkg-cascadia.git"
+  },
   "author": "Test",
   "license": "ISC"
 }
