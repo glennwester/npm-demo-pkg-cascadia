@@ -13,6 +13,9 @@
     "type" : "git",
     "url" : "git@github.com:glennwester/npm-demo-pkg-cascadia.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "author": "Test",
   "license": "ISC"
 }
