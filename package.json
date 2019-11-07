@@ -1,6 +1,6 @@
 {
   "name": "@glennwester/npm-demo-pkg-cascadia",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A demo package for testing. ",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,11 @@
     "demo"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "git:glennwester/npm-demo-pkg-cascadia.git"
+    "type": "git",
+    "url": "git:glennwester/npm-demo-pkg-cascadia.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Test",
   "license": "ISC"
