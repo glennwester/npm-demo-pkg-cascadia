@@ -1,6 +1,6 @@
 {
   "name": "@glennwester/npm-demo-pkg-cascadia",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A demo package for testing. ",
   "main": "index.js",
   "scripts": {
